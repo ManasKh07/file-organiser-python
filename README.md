@@ -23,8 +23,9 @@ This script automatically organizes files in a folder based on file type.
 
 ```bash
 py organizer.py
-Example
 ```
+Example
+
 Before:
 
 python/
